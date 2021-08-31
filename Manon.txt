@@ -1,0 +1,6 @@
+Manon
+100.0
+2
+2
+('SOLIDE', 'victoire')
+('ROULADE', 'victoire')
